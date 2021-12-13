@@ -1,3 +1,5 @@
 print("Hello World !")
 name = input ("Enter your name: ")
-print("Hello " + name + " !")
+print("Hello my name is " + name + " !")
+age = input ("Enter your age: ")
+print("I'm " + age + " !")
